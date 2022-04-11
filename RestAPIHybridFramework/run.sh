@@ -1,0 +1,2 @@
+cd /Users/jagrutishevalkar/Documents/End_to_End_Framework_JAVA/RestAssuredProject 
+mvn clean install
